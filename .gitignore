@@ -1,0 +1,9 @@
+# node module
+/node_modules
+
+# http
+/test.http
+
+
+# uplaods folder
+/public/uplaods

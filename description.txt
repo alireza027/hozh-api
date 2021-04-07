@@ -1,0 +1,2 @@
+git pull origin main --force => vaghti bekhaim az github.com harchi ezafe shode ro add konimd
+git push -u origin main => vaghti chizi neveshtim va khastim beferestim be site github.com
